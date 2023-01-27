@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RonakWebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8BE66BA798B40AF808A7CD504912B57 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84CC74FA33124BA28510558063AC0802 }}
           package: .
